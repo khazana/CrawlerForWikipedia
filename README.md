@@ -4,12 +4,7 @@ Code to crawl Wikipedia using BFS and DFS
 This projects consists of two python files - one consists of code for the implementation of a crawler using breadth first search and depth first search. The other file FocusedCrawler.py consists of the code or the implementation of a focused crawler. The SimpleCrawler.py returns four text files - two for a list of unique URLS fetched using BFS and DFS; and another two files consisting of duplicate URLS retrieved using BFS and DFS. The focused crawler also gives a text file for unique URLs as well as one for duplicate URLs.
 
 ## Libraries used
-URLLIB
-NLTK
-Beautiful soup
-httplib2
-time
-collections
+URLLIB, NLTK, Beautiful soup, httplib2, time, collections
 
 ## Installation
  
